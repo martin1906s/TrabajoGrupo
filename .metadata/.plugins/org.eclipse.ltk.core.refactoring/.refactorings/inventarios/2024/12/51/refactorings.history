@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;KrakeDevException.java&apos; to &apos;reservaciones/src/main/java/com.krakedev.reservaciones.excepciones&apos;&#x0D;&#x0A;- Original project: &apos;inventarios&apos;&#x0D;&#x0A;- Destination element: &apos;reservaciones/src/main/java/com.krakedev.reservaciones.excepciones&apos;&#x0D;&#x0A;- Original element: &apos;com.krakedev.inventarios.excepciones.KrakeDevException.java&apos;" description="Copy compilation unit" destination="=reservaciones/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.krakedev.reservaciones.excepciones" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.krakedev.inventarios.excepciones{KrakeDevException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1734795188477" units="1" version="1.0"/>
+</session>

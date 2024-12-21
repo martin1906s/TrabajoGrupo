@@ -1,0 +1,10 @@
+package com.krakedev.reservaciones.entidades;
+
+public class Rutas {
+	
+	private int rut_id;
+	
+	private Ciudades ciu_id_origen;
+	
+
+}

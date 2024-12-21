@@ -1,0 +1,13 @@
+package com.krakedev.reservaciones.entidades;
+
+public class Reservaciones {
+
+	private int res_id;
+	
+	private Usuarios usu_id;
+	
+	private Rutas rut_id;
+	
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.krakedev.reservaciones.entidades;
+
+public class Reservaciones {
+
+}
